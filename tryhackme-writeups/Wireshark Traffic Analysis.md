@@ -2,7 +2,7 @@
 > **Platform:** TryHackMe  
 > **Room:** Wireshark: Traffic Analysis     
 > **Difficulty:** Medium  
-> **Date Completed:** May 2025  
+> **Date Completed:** May 2026  
 > **Category:** Network Security / SOC / Forensics
 
 ---
