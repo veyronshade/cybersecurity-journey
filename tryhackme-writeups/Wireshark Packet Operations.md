@@ -3,7 +3,7 @@
 > **Platform:** TryHackMe  
 > **Room:** Wireshark: Packet Operations  
 > **Difficulty:** Easy  
-> **Date Completed:** May 2025  
+> **Date Completed:** May 2026  
 > **Category:** Network Security
 
 ---
