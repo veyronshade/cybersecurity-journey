@@ -3,7 +3,7 @@
 # Part of my Python learning journey for Ethical Hacking
 
 # HOW TO RUN:
-# python3 "Rubbish Name Generator.py"
+# python3 "Rubbish_Name_Generator.py"
 # (Requires Python 3 — no external libraries needed)
 
 print("Welcome to the Rubbish Name Generator")
