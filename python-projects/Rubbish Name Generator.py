@@ -1,3 +1,8 @@
+# Day 1 Project: Rubbish Name Generator
+# Concepts practiced: input(), string indexing, string concatenation
+# Part of my Python learning journey for Ethical Hacking
+
+
 print("Welcome to the Rubbish Name Generator")
 first_name = input("What's your name?\n")
 
