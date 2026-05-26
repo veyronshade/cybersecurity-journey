@@ -2,6 +2,9 @@
 # Concepts practiced: input(), string indexing, string concatenation
 # Part of my Python learning journey for Ethical Hacking
 
+# HOW TO RUN:
+# python3 "Rubbish Name Generator.py"
+# (Requires Python 3 — no external libraries needed)
 
 print("Welcome to the Rubbish Name Generator")
 first_name = input("What's your name?\n")
