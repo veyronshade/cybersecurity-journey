@@ -29,13 +29,13 @@
 
 | Room/Module | Path | Difficulty | Date Completed |
 |-------------|------|------------|----------------|
-| Intro to Offensive Security | Cybersecurity 101 | Easy | 2026-06-XX |
-| Network Security | Cybersecurity 101 | Easy | 2026-06-XX |
+| TCP Dump | Cybersecurity 101 | Easy | 2026-06-09 |
+| Nmap | Cybersecurity 101 | Easy | 2026-06-12 |
 
 ## 🔗 Connect With Me
 
-- [LinkedIn](your-linkedin-url)
-- [TryHackMe Profile](your-thm-profile-url)
+- [LinkedIn](https://www.linkedin.com/in/precious-ajibola-b086ab173/)
+- [TryHackMe Profile](https://tryhackme.com/p/VeyronShade)
 
 ---
 
