@@ -7,7 +7,7 @@
 
 | Learning Path | Status | Progress  | Rooms Completed |
 |---------------|--------|-----------|-----------------|
-| Cybersecurity 101 | 🟡 In Progress | 6/15      | 6               |
+| Cybersecurity 101 | 🟡 In Progress | 5/14      | 6               |
 | SOC Level 1 | ⚪ Not Started | 0/25      | 0               |
 | Jr Penetration Tester | ⚪ Not Started | 0/28      | 0               |
 | **Python 100 Days** | 🟡 In Progress | Day 4/100 | —               |
