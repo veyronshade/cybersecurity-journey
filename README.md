@@ -46,6 +46,13 @@ SSH · TLS · ARP · ICMP · DHCP
 - TryHackMe room writeups and notes
 - Security tools I build as my skills develop
 
+## 🛠️ Projects
+
+| Project | Description | Tech | Status | Link |
+|---------|-------------|------|--------|------|
+| SOC Password Fortification | Password auditor + generator with security scoring | Python | ✅ Complete | [soc-password-fortification](https://github.com/veyronshade/soc-password-fortification) |
+
+
 ## 🏗️ Background
 Civil Engineer turned Cybersecurity student. My engineering 
 background gives me a unique perspective on critical infrastructure 
