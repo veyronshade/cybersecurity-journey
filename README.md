@@ -1,5 +1,19 @@
 # Hello there, I'm Veyron Shade
 
+## 🎯 Current Status (June 2026)
+
+**Transitioning from Civil Engineering → Cybersecurity**
+
+| Area | Status |
+|------|--------|
+| TryHackMe Cybersecurity 101 | Module 6/14: Cryptography (in progress) |
+| Python 100 Days | Day 5/100: Password Generator complete |
+| Python Projects | SOC Password Fortification |
+| TryHackMe SOC Level 1 | Not started |
+| Certifications | Fortinet NSE 1 ✅ |
+
+**Goal:** SOC Analyst or Junior Security Analyst role by November 2026.
+
 ## About Precious
 Cybersecurity student transitioning from a civil engineering background 
 into ethical hacking and SOC analysis. I believe that understanding how 
