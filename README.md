@@ -53,7 +53,7 @@ security — one of the most important and underserved areas in
 cybersecurity today.
 
 ## 📫 Connect With Me
-[LinkedIn](www.linkedin.com/in/precious-ajibola-b086ab173)
-
+- **[LinkedIn](www.linkedin.com/in/precious-ajibola-b086ab173)**
+- **[TryHackMe Profile](https://tryhackme.com/p/VeyronShade)**
 ---
 *"You cannot secure what you don't understand."*
