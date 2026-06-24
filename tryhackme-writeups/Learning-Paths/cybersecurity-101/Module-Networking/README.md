@@ -10,7 +10,7 @@
 | Cybersecurity 101 | 🟡 In Progress | 5/14      | 5               |
 | SOC Level 1 | ⚪ Not Started | 0/25      | 0               |
 | Jr Penetration Tester | ⚪ Not Started | 0/28      | 0               |
-| **Python 100 Days** | 🟡 In Progress | Day 4/100 | —               |
+| **Python 100 Days** | 🟡 In Progress | Day 5/100 | —               |
 
 ## 🗂️ Repository Structure
 
