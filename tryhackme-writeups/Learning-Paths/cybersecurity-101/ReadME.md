@@ -16,7 +16,7 @@ contains detailed write-ups, notes, commands used, screenshots, and key takeaway
 
 ## 🗺️ Learning Roadmap
 
-| Module | Room                                                                    | Status      |
+| Room | Room name                                                                    | Status      |
 |--------|-------------------------------------------------------------------------|-------------|
 | 1  | Introduction to Cyber Security                                          | ✅ Complete |
 | 2  | Linux Fundamentals Part 1, 2 & 3                                        | ✅ Complete |
@@ -31,7 +31,8 @@ contains detailed write-ups, notes, commands used, screenshots, and key takeaway
 | 11 | WireShark: The Basics(WireShark Packet Operations and Traffic Analysis) | ✅ Complete |
 | 12 | Tcpdump                                                                 | ✅ Complete |
 | 13 | Nmap                                                                    | ✅ Complete |      
-| 14 | Cryptography                                                            | In Progress |
+| 14 | Cryptography Basics                                                     | ✅ Complete |
+| 15 | Public Key Cryptogrphy                                                  |  In Progress |
 
 ---
 
