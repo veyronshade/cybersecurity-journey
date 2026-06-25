@@ -314,46 +314,6 @@ Modulo returns the **remainder** after division.
 
 ---
 
-## 📝 Commands & Tools Reference
-
-### Caesar Cipher Decryption (Manual)
-```python
-# Python script to brute-force Caesar cipher
-def caesar_decrypt(ciphertext):
-    for shift in range(26):
-        decrypted = ""
-        for char in ciphertext:
-            if char.isalpha():
-                shifted = chr((ord(char) - ord('A') - shift) % 26 + ord('A'))
-                decrypted += shifted
-            else:
-                decrypted += char
-        print(f"Shift {shift}: {decrypted}")
-
-caesar_decrypt("XRPCTCRGNEI")
-```
-
-### XOR Operation (Python)
-```python
-# XOR two binary strings
-def xor_binary(a, b):
-    result = ""
-    for i in range(len(a)):
-        result += str(int(a[i]) ^ int(b[i]))
-    return result
-
-print(xor_binary("1001", "1010"))  # Output: 0011
-```
-
-### Modulo Operation (Python)
-```python
-# Modulo calculations
-print(118613842 % 9091)  # Output: 3565
-print(60 % 12)             # Output: 0
-```
-
----
-
 ## 💡 Key Takeaways & Lessons Learned
 
 1. **Cryptography is the foundation of all digital security** — without it, passwords, banking, and private messages would be exposed.
