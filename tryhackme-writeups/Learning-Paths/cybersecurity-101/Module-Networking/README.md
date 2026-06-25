@@ -17,7 +17,7 @@
 - **[Learning-Paths/](./Learning-Paths/)** — Organized by THM learning path
 - **[Rooms/](./Rooms/)** — Individual CTF rooms and challenges
 - **[Tools-and-Cheatsheets/](./Tools-and-Cheatsheets/)** — Quick references I built
-- **[Scripts/](./Scripts/)** — Custom scripts and automation
+
 
 ## 🛠️ Tech Stack & Tools
 
@@ -29,8 +29,8 @@
 
 | Room/Module | Path | Difficulty | Date Completed |
 |-------------|------|------------|----------------|
-| TCP Dump | Cybersecurity 101 | Easy | 2026-06-09 |
-| Nmap | Cybersecurity 101 | Easy | 2026-06-12 |
+| Cryptography Basics | Cybersecurity 101 | Easy | 2026-06-23 |
+
 
 ## 🔗 Connect With Me
 
