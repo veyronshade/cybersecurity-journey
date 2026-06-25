@@ -344,6 +344,6 @@ Modulo returns the **remainder** after division.
 
 ---
 
-*Write-up by: [Your Name]*  
-*Date: [DD/MM/YYYY]*  
-*Next Room: [Public Key Cryptography Basics]*
+*Write-up by: Precious Ajibola*  
+*Date: 23/6/2026*  
+*Next Room: Public Key Cryptography Basics*
