@@ -35,7 +35,7 @@ Certificates support the portfolio; they are not a substitute for hands-on evide
 ---
 
 ## 📫 Connect With Me
-- **[LinkedIn](www.linkedin.com/in/precious-ajibola-b086ab173)**
+- **[LinkedIn](https://www.linkedin.com/in/precious-ajibola-b086ab173)**
 - **[TryHackMe Profile](https://tryhackme.com/p/VeyronShade)**
 - **[X Profile](https://x.com/veyronshade)**
 
