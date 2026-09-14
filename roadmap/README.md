@@ -1,4 +1,4 @@
-# Roadmap of Precious — Public Snapshot
+# Roadmap of Precious (Public Snapshot)
 
 ## Goal
 
@@ -12,16 +12,16 @@ The roadmap prioritizes mastery over speed and follows this progression:
 
 ## Six Phases
 
-1. **Foundations (Weeks 1–6)** — networking, Linux/Windows basics, Python fundamentals
-2. **Core Technical Build (Weeks 7–12)** — packet analysis, deeper OS skills, HTTP/web foundations, Python automation
-3. **Security Operations Foundations (Weeks 13–17)** — logs, Active Directory fundamentals, Splunk introduction
-4. **Threat Investigation & Detection (Weeks 18–21)** — alert triage, SIEM investigation, threat hunting, detection logic
-5. **Professional Portfolio & Automation Mastery (Weeks 22–23)** — capstone and portfolio consolidation
-6. **Career Acceleration & Job Readiness (Weeks 24–26)** — interview preparation, profile/resume refinement, and applications
+1. **Foundations (Weeks 1–6)**: networking, Linux/Windows basics, Python fundamentals
+2. **Core Technical Build (Weeks 7–12)**: packet analysis, deeper OS skills, HTTP/web foundations, Python automation
+3. **Security Operations Foundations (Weeks 13–17)**: logs, Active Directory fundamentals, Splunk introduction
+4. **Threat Investigation & Detection (Weeks 18–21)**: alert triage, SIEM investigation, threat hunting, detection logic
+5. **Professional Portfolio & Automation Mastery (Weeks 22–23)**: capstone and portfolio consolidation
+6. **Career Acceleration & Job Readiness (Weeks 24–26)**: interview preparation, profile/resume refinement, and applications
 
 ## Current Position
 
-**Phase 1 — Foundations**  
+**Phase 1: Foundations**  
 **Operational focus: Week 3**
 
 Current work includes IP addressing, subnetting/CIDR, DNS, DHCP/DORA, Windows basics, and Linux permissions.
