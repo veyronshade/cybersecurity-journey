@@ -2,7 +2,7 @@
 
 ## Goal
 
-Become employable as a **L1 SOC Analyst (Blue Team)** through a structured Competency-week transition plan focused on genuine technical skill, practical evidence, communication, and interview readiness.
+Become employable as a **L1 SOC Analyst (Blue Team)** through a structured 26-week cybersecurity career-transition roadmap focused on genuine technical skill, practical evidence, communication, and interview readiness.
 
 ## Learning Philosophy
 
