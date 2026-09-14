@@ -18,7 +18,7 @@ Current work includes IP addressing, subnetting/CIDR, DNS, DHCP/DORA, Windows ba
 
 ## Roadmap
 
-The public roadmap snapshot explains the 26-competency week structure, the six phases, my current position, and how evidence is produced.
+The public roadmap snapshot explains the structured Competency-week transition plan, the six phases, my current position, and how evidence is produced.
 
 [Open Roadmap Snapshot](roadmap/README.md)
 
