@@ -1,90 +1,44 @@
-# Hello there, I'm Veyron Shade
+# Cybersecurity Journey
 
-## 🚀 Current Journey
+This repository is the index for my structured transition from Civil Engineering into cybersecurity, with **L1 SOC Analyst / Blue Team** as my first career target.
 
-**Transitioning from Civil Engineering → Cybersecurity**
+## Current Position
 
-| Area | Status |
-|------|--------|
-| TryHackMe Cybersecurity 101 | Module 6/14: Cryptography (in progress) |
-| Python 100 Days | Day 5/100: Password Generator complete |
-| TryHackMe SOC Level 1 | Not started |
+**Phase 1 — Foundations**  
+**Current focus: Week 3**
 
-**Goal:** Develop the technical knowledge, investigation skills, and portfolio required to earn a Junior SOC Analyst role.
+Current work includes IP addressing, subnetting/CIDR, DNS, DHCP/DORA, Windows basics, and Linux permissions. I only publish a topic as completed evidence after I have genuinely closed the underlying learning or practical work.
 
-## About Precious
-Cybersecurity student transitioning from a civil engineering background 
-into ethical hacking and SOC analysis. I focus on understanding why 
-technologies exist before learning how to use them. My goal isn't simply 
-to complete courses, but to build a strong foundation that allows me to 
-investigate, analyze, and secure systems with confidence.
+## Evidence Hubs
 
-## 📚 Currently Learning
-- Networking Fundamentals
-- Python Automation
-- HTTP & Client-Server Communication
-- TryHackMe Pre Security
+- [Networking Fundamentals](https://github.com/veyronshade/networking-fundamentals)
+- [Python Learning Process](https://github.com/veyronshade/python-learning-process)
+- [TryHackMe Writeups](https://github.com/veyronshade/tryhackme-writeups)
+- [SOC Password Fortification](https://github.com/veyronshade/soc-password-fortification)
 
-## 📂 What You'll Find Here
+## Roadmap
 
-- Technical notes explaining networking concepts in my own words
-- TryHackMe room write-ups and lessons learned
-- Python automation projects
-- Security investigations
-- Portfolio projects documenting my SOC journey
+The public roadmap snapshot explains the 26-competency week structure, the six phases, my current position, and how evidence is produced.
 
-## 🗺 Roadmap Progress
+[Open Roadmap Snapshot](roadmap/README.md)
 
-✅ Week 1 — Networking Foundations I
-Completed
-- Communication Protocols
-- Client-Server Model
-- OSI Model
+## Certifications & Training
 
+Certificates support the portfolio; they are not a substitute for hands-on evidence.
 
-🔄 Current
-Week 2 — TCP/IP Fundamentals
+[Open Certification & Training Index](certifications/certifications_README.md)
 
-- TCP/IP Model
-- Encapsulation
-- Ethernet
-- ARP
+## Learning Philosophy
 
-## 🛠️ Projects
+**Learn → Practice → Build → Investigate → Document → Explain**
 
-| Project | Description | Tech | Status | Link |
-|---------|-------------|------|--------|------|
-| SOC Password Fortification | Password auditor + generator with security scoring | Python | ✅ Complete | [soc-password-fortification](https://github.com/veyronshade/soc-password-fortification) |
-|Coming Soon⬇️
-|Port Scanner|
-|Password Auditor|
-|SOC Automation Scripts|
-
-## Repository Roadmap
-### Repositories
-
-- 📖 Networking Foundations
-
-- 🌐 Wireshark Investigations
-
-- 🐍 Port Scanner
-
-- 🛡 Password Auditor
-
-- 📑 Investigation Reports
-
-- ⚙ SOC Automation Scripts
-
-- 🚀 Capstone
-
-## Certifications
-
-- Fortinet NSE 1 ✅
-- Fortinet NSE 2 🔄 In Progress
-- Google Cybersecurity Certificate 🔄 Financial Aid Pending
+---
 
 ## 📫 Connect With Me
 - **[LinkedIn](www.linkedin.com/in/precious-ajibola-b086ab173)**
 - **[TryHackMe Profile](https://tryhackme.com/p/VeyronShade)**
+- **[X Profile](https://x.com/veyronshade)
+
 ---
+
 *"You cannot secure what you don't understand."*
